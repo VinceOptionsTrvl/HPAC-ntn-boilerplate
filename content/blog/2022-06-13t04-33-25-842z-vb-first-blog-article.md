@@ -1,6 +1,6 @@
 ---
 createdAt: 2022-06-13T04:33:25.842Z
-title: VB First Blog Article
+title: "VB First Blog Article "
 description: This is a sample description
 ---
 # Welcome!
